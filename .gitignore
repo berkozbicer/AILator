@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code ayarları
+.vscode/
+
+# MacOS dosyaları
+.DS_Store
